@@ -1,1 +1,1 @@
-# Microservice-Implementation-with-Service-Registry-and-API-Gateway
+I have created microservices for employee,department management, organization, with each microservice having its own database. Additionally, I created a configuration server to store the configuration files of all the microservices in a centralized repository on Git, and utilized Spring Cloud Eureka server to implement service registry and discovery. I also implemented communication between the microservices and implemented an API gateway for microservice API management
